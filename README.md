@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5bc00f8-429d-4913-8a00-8521d8fe2885" alt="Teng Wei Herr" width="400px" height="400px" />
+</p>
+
+
 Wei Herr is a software engineer from Malaysia. He began his career as a photographer and graphic designer during university, but later transitioned into software engineering because camera lenses were too heavy (It's hurting my shoulder!). 
 
 His main focus is frontend engineering, but he occasionally works on backend too. During his free time, he writes tech articles and contributes to open-source projects.
