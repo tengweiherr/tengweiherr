@@ -3,7 +3,7 @@
 </p>
 
 
-Wei Herr is a software engineer from Malaysia. He began his career as a photographer and graphic designer during university, but later transitioned into software engineering because camera lenses were too heavy (It's hurting my shoulder!). 
+Wei Herr is a software engineer from Malaysia. He began his career as a photographer and motion graphic designer during university, but later transitioned into software engineering because camera lenses were too heavy (It's hurting my shoulder!). 
 
 His main focus is frontend engineering, but he occasionally works on backend too. During his free time, he writes tech articles and contributes to open-source projects.
 
