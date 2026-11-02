@@ -11,7 +11,7 @@ Wei Herr is a software engineer from Malaysia. He began his career as a photogra
 
 His main focus is frontend engineering, but he occasionally works on backend too. During his free time, he writes tech articles and contributes to open-source projects.
 
-- 💼 Currently working on [binance](https://www.binance.com/en/alpha) and [paygap.asia](https://paygap.asia/)
+- 💼 Currently working on [paygap.asia](https://paygap.asia/)
 - 🌱 Pivoting into design engineering
 - Past experience: [moneylion.com](https://www.moneylion.com/)
 
